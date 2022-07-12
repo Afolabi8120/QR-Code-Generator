@@ -1,0 +1,10 @@
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe.config
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.exe
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\bin\Debug\QR Code Generator.pdb
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\bin\Debug\ThoughtWorks.QRCode.dll
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.csprojResolveAssemblyReference.cache
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Form1.resources
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR_Code_Generator.Properties.Resources.resources
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.csproj.GenerateResource.Cache
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.exe
+c:\users\personal computer\documents\visual studio 2012\Projects\QR Code Generator\QR Code Generator\obj\Debug\QR Code Generator.pdb
